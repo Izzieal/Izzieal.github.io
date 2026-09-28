@@ -7,12 +7,22 @@ this is **the** page
 ![dog](https://raw.githubusercontent.com/Izzieal/Izzieal.github.io/refs/heads/main/dog.jpg)
 
 
+## Fun websites
+
+
+[Taiko Web] (https://cjdgrevival.com/)
+
+[Online Omnichord] (https://onlineomnichord.com/)
 
 
 
 
 
->why do some people ask where the entrance is?
+
+
+##common questions
+
+>why do some people keep asking where the entrance is?
 
 These people are **wrong** and can be disregarded  
 
