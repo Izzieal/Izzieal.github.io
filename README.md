@@ -2,6 +2,15 @@
 
 this is **the** page
 
+## This is my dog!!
+
+![dog](https://raw.githubusercontent.com/Izzieal/Izzieal.github.io/refs/heads/main/dog.jpg)
+
+
+
+
+
+
 
 >why do some people ask where the entrance is?
 
