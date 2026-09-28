@@ -20,7 +20,7 @@ this is **the** page
 
 
 
-##common questions
+## Common Questions
 
 >why do some people keep asking where the entrance is?
 
