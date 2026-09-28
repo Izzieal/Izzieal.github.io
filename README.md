@@ -10,12 +10,9 @@ this is **the** page
 ## Fun websites
 
 
-[Taiko Web] (https://cjdgrevival.com/)
+[Taiko Web](https://cjdgrevival.com/)
 
-[Online Omnichord] (https://onlineomnichord.com/)
-
-
-
+[Online Omnichord](https://onlineomnichord.com/)
 
 
 
